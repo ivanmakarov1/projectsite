@@ -1,0 +1,35 @@
+const data = {
+    "first_name": "Иван",
+    "last_name": "Макаров",
+    "job_title": "JavaScript DEVELOPER",
+    "photo": "images/w1.jpg",
+    "phone": "+79657684433",
+    "email": "ivanmakarov0@gmail.com",
+    "skype": "Skype:live:ivanmakarov1",
+    "linkedin": "https://github.com/ivanmakarov1",
+    "address": "г.Санкт-Петербург",
+    "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Gulp",
+        "Bootstrap4",
+        "jquery",
+        "SQL",
+        "GIT",
+        //"Process Improvement",
+        //"Market Strategizing",
+        //"Adobe Creative Suite",
+        //"Microsoft Office 2016",
+        //"Google Web Analytics",
+        //"Fluent in Spanish",
+    ],
+    "education": [
+        ["2013-2017", "Тольяттинский технологический колледж."],
+        //["2010-2015", "University of Alabama English Language Institute"],
+    ],
+    "achievements": [
+        "Получение благодарностей, грамот и иных мер поощрения за успехи в труде",
+    ],
+    "profile": "Пиветствую на своем сайте! Немного о себе: я начинающий Веб-разработчик в данный момент ищу работу в качестве Junior-JavaScript developer! Характеристика: обучаемость, стрессоустойчивость, усидчивость, ответственность."
+};
